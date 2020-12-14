@@ -4,6 +4,7 @@
     align-items: center;
     width: 80vw;
     height: 60vh;
+    min-height: 560px;
     margin-top: -15px;
 }
 
@@ -64,6 +65,7 @@
     align-items: center;
     width: 40%;
     height: 30vh;
+    min-height: 310px;
     background-color: grey;
     overflow-y: scroll;
     overflow-x: hidden;

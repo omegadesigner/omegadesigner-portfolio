@@ -80,7 +80,8 @@
     padding: 20px;
     border: 1px solid #888;
     width: 80vw;
-    height: 60vh; 
+    height: 60vh;
+    min-height: 560px;
     background-color: rgb(128, 128, 128, 0.8);
     box-shadow: 0 40px 40px black;
     border-radius: 20px;
