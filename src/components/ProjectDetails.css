@@ -1,0 +1,86 @@
+.ProjectDetails-layout {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 80vw;
+    height: 60vh;
+    margin-top: -15px;
+}
+
+.project-popup-left {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    width: 40%;
+    height: 90%;
+    background-color: grey;
+}
+
+.project-popup-img {
+    margin-top: 12px;
+    width: 95%;
+    background-color: grey;
+    box-shadow: 1px 1px grey, 8px 8px black;
+}
+
+.project-popup-links {
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+}
+
+.project-popup-link {
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+    font-size: x-large;
+}
+
+.project-popup-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 60%;
+    height: 90%;
+    background-color: grey;
+}
+
+.project-popup-info {
+    display: flex;
+    height: 80%;
+}
+
+.project-popup-skills {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    width: 40%;
+    height: 30vh;
+    background-color: grey;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    border: 4px ridge black;
+    margin: 20px;
+}
+
+.project-popup-skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.project-popup-skill-img {
+    width: 60%;
+}
+.project-popup-text {
+    width: 60%;
+}
+.project-popup-each-skill {
+    display: flex;
+    justify-content: left;
+    width: 30vw;
+    height: 30px;
+}

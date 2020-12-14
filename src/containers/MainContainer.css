@@ -1,0 +1,9 @@
+.MainContainer-layout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 92vh;
+    padding-top: 8vh;
+    background: linear-gradient(225deg, rgba(180, 180, 180, 0.72) 0%, rgb(54, 54, 54) 100%)
+}

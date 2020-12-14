@@ -1,0 +1,33 @@
+.SkillList-layout {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 40vw;
+    height: 88vh;
+}
+
+.SkillList-window {
+    display: flex;
+    flex-direction: column;
+    width: 35vw;
+    height: 40vh;
+    box-shadow: 1px 1px grey, 8px 8px black;
+    
+}
+
+.SkillList-window-header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 35vw;
+    height: 4vh;
+    background-color: lightskyblue;
+    text-indent: 15px;
+}
+
+.SkillList-window-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: grey;
+    overflow-y: scroll;
+}

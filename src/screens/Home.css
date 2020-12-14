@@ -1,0 +1,29 @@
+.Home-layout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 88vh;
+    
+}
+
+.Home-profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 60vw;
+    height: 88vh;
+}
+
+.Home-profile-img {
+    width: 25vw;
+    height: 25vw;
+    border-radius: 50%;
+}
+
+.Home-profile-text {
+    width: 50vw;
+    height: 50vh;
+    font-size: larger;
+}

@@ -1,0 +1,37 @@
+.Projects-layout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 88vh;
+}
+
+.Projects-window-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 28vh;
+}
+
+.Projects-window-header > p {
+    font-size: x-large;
+}
+.Projects-window-button {
+    position: absolute;
+    right: 20px;
+    margin-top: 20px;
+}
+
+.Projects-window-list {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 100vw;
+    height: 60vh;
+    overflow-y: auto;
+}
