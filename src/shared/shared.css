@@ -45,6 +45,9 @@
     width: 40vw;
     height: 30vh;
     text-shadow: 0 2px 2px rgb(49, 49, 49);
+    background-color: lightskyblue;
+    box-shadow: 0 10px 10px black;
+    border-radius: 20px;
 }
 
 .contact-info-link {
