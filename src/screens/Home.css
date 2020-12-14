@@ -18,6 +18,7 @@
 
 .Home-profile-img {
     width: 10vw;
+    min-width: 160px;
     border-radius: 50%;
     box-shadow: 0 20px 40px black;
 }
