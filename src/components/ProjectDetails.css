@@ -86,6 +86,7 @@
 .project-popup-text {
     width: 60%;
     text-shadow: 0 1px 1px black;
+    font-size: x-large;
 }
 .project-popup-each-skill {
     display: flex;

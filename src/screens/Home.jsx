@@ -13,7 +13,8 @@ function Home(props) {
                     src="https://i.imgur.com/dE79Uhh.jpg?3"
                     alt="Profile Image"
                 />
-                <p className='Home-profile-text'>
+                <div className='Home-profile-text'>
+                <p>
                 Junior Developer with over 10 years of 
                 experience who is now making a 
                 transition from hardware to software. 
@@ -29,6 +30,16 @@ function Home(props) {
                 variety, is what has prompted my career 
                 pivot to Software Development.
                 </p>
+                <p>
+                I pride myself not on graphic design but on logical systems
+                and functionality. Complicated data structures and challenging 
+                cause-effect relationships are where I find the most satisfaction
+                in what I do. If you are looking for someone to help figure out
+                the moving parts for game logic or an app that returns mutated 
+                values back to the user I would love to collaborate. I look 
+                forward to working with you.
+                </p>
+                </div>
             </div>
         </div>
     );

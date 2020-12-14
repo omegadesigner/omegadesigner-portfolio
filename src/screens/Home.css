@@ -17,15 +17,14 @@
 }
 
 .Home-profile-img {
-    width: 25vw;
-    height: 25vw;
+    width: 10vw;
     border-radius: 50%;
     box-shadow: 0 20px 40px black;
 }
 
 .Home-profile-text {
     width: 50vw;
-    height: 50vh;
+    height: 60vh;
     font-size: x-large;
     text-shadow: 0 2px 2px rgb(61, 61, 61);
 }
