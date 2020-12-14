@@ -14,8 +14,9 @@
     align-items: center;
     width: 40%;
     height: 90%;
-    background-color: grey;
+    background-color: lightskyblue;
     box-shadow: 0 10px 10px black;
+    border-radius: 20px;
 }
 
 .project-popup-img {
@@ -45,10 +46,11 @@
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    width: 60%;
+    width: 55%;
     height: 90%;
-    background-color: grey;
+    background-color: lightskyblue;
     box-shadow: 0 10px 10px black;
+    border-radius: 20px;
 }
 
 .project-popup-info {
@@ -87,6 +89,7 @@
     width: 60%;
     text-shadow: 0 1px 1px black;
     font-size: x-large;
+    margin: 20px;
 }
 .project-popup-each-skill {
     display: flex;

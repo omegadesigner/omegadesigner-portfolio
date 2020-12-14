@@ -4,7 +4,7 @@
     justify-content: center;
     align-items: center;
     width: 30vw;
-    height: 25vh;
+    height: 30vh;
     background-color: lightskyblue;
     box-shadow: 0 40px 40px black;
     border-radius: 10px;
@@ -19,6 +19,7 @@
     height: 90%;
     background-color: grey;
     border: 4px ridge black;
+    font-size: x-large;
 }
 
 .ProjectCards-snapshot {
@@ -35,6 +36,7 @@
 .ProjectCards-img {
     width: 100%;
     background-color: grey;
+    border-radius: 5px;
 }
 
 .ProjectCards-skills {
@@ -46,6 +48,7 @@
     background-color: grey;
     overflow-y: scroll;
     overflow-x: hidden;
+    font-size: large;
 }
 
 .ProjectCards-each-skill {
@@ -78,7 +81,7 @@
     border: 1px solid #888;
     width: 80vw;
     height: 60vh; 
-    background-color: lightskyblue;
+    background-color: rgb(128, 128, 128, 0.8);
     box-shadow: 0 40px 40px black;
     border-radius: 20px;
 }

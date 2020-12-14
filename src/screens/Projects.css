@@ -14,11 +14,11 @@
     align-items: center;
     width: 100vw;
     height: 28vh;
-    text-shadow: 0 2px 2px rgb(61, 61, 61);
+    text-shadow: 0 2px 2px rgb(197, 197, 197);
 }
 
 .Projects-window-header > p {
-    font-size: x-large;
+    font-size: xx-large;
 }
 .Projects-window-button {
     position: absolute;

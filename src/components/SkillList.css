@@ -11,8 +11,7 @@
     flex-direction: column;
     width: 35vw;
     height: 55vh;
-    box-shadow: 0 40px 40px black;
-    
+    box-shadow: 0 20px 20px black;
 }
 
 .SkillList-window-header {
@@ -29,6 +28,6 @@
 .SkillList-window-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    background-color: grey;
+    background-color: rgb(128, 128, 128, 0.5);
     overflow-y: scroll;
 }

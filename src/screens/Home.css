@@ -24,7 +24,14 @@
 
 .Home-profile-text {
     width: 50vw;
-    height: 60vh;
+    height: 45vh;
     font-size: x-large;
+    background-color: rgb(128, 128, 128, 0.5);
     text-shadow: 0 2px 2px rgb(61, 61, 61);
+    border-radius: 20px;
+    box-shadow: 0 20px 20px black;
+}
+
+.Home-profile-text > p {
+    margin: 30px;
 }
