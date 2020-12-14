@@ -5,6 +5,7 @@
     align-items: center;
     width: 30vw;
     height: 30vh;
+    min-height: 270px;
     background-color: lightskyblue;
     box-shadow: 0 40px 40px black;
     border-radius: 10px;
