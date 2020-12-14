@@ -10,8 +10,8 @@
     display: flex;
     flex-direction: column;
     width: 35vw;
-    height: 40vh;
-    box-shadow: 1px 1px grey, 8px 8px black;
+    height: 55vh;
+    box-shadow: 0 40px 40px black;
     
 }
 
@@ -23,6 +23,7 @@
     height: 4vh;
     background-color: lightskyblue;
     text-indent: 15px;
+    text-shadow: 0 4px 4px grey;
 }
 
 .SkillList-window-container {

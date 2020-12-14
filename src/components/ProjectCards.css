@@ -6,7 +6,8 @@
     width: 30vw;
     height: 25vh;
     background-color: lightskyblue;
-    box-shadow: 1px 1px grey, 8px 8px black;
+    box-shadow: 0 40px 40px black;
+    border-radius: 10px;
 }
 
 .ProjectCards-info {
@@ -78,7 +79,8 @@
     width: 80vw;
     height: 60vh; 
     background-color: lightskyblue;
-    box-shadow: 1px 1px grey, 8px 8px black;
+    box-shadow: 0 40px 40px black;
+    border-radius: 20px;
 }
 
 .close {

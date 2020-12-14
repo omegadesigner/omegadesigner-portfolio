@@ -20,11 +20,12 @@
     width: 25vw;
     height: 25vw;
     border-radius: 50%;
-    box-shadow: 1px 1px grey, 8px 8px black;
+    box-shadow: 0 20px 40px black;
 }
 
 .Home-profile-text {
     width: 50vw;
     height: 50vh;
-    font-size: larger;
+    font-size: x-large;
+    text-shadow: 0 2px 2px rgb(61, 61, 61);
 }
