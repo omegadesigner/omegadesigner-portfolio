@@ -90,6 +90,7 @@
     text-shadow: 0 1px 1px black;
     font-size: x-large;
     margin: 20px;
+    overflow-y: auto;
 }
 .project-popup-each-skill {
     display: flex;
