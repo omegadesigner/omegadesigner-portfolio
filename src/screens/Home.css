@@ -20,6 +20,7 @@
     width: 25vw;
     height: 25vw;
     border-radius: 50%;
+    box-shadow: 1px 1px grey, 8px 8px black;
 }
 
 .Home-profile-text {

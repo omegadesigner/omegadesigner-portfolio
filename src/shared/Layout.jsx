@@ -42,7 +42,9 @@ function Layout(props) {
                             <h1>{contactInfo.full_name}</h1>
                             <div>
                                 <a target="_blank" rel="noopener noreferrer" className='contact-info-link' href={contactInfo.linkedin}>Click Here For Linkedin</a>
-                                <div>{contactInfo.linkedin}</div>
+                            </div>
+                            <div>
+                                <a target="_blank" rel="noopener noreferrer" className='contact-info-link' href={contactInfo.resume}>Click Here For My Resume</a>
                             </div>
                             <div>{contactInfo.email}</div>
                             <div>{contactInfo.phone}</div>
